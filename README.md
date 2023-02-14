@@ -1,2 +1,4 @@
 # odin-recipes
-A basic recipe website built using HTML coding learnt during the Foundations part of The Odin Project.
+This is my first assignment while following The Odin Project curriculum.
+
+This consists of a basic recipe website built using the basics of HTML coding.

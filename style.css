@@ -1,8 +1,9 @@
-html { /* Applied to the whole webpage */
+* { /* Applied to the whole webpage */
     background-color: lightgoldenrodyellow;
+    font-family: 'DejaVu Sans', 'Times New Roman', sans-serif;
 }
 
-.main { /* Aligns body of the main page to the center */
+.main { /* Aligns body of index.html to the center */
     text-align: center;
 }
 
@@ -17,4 +18,27 @@ h1 { /* Applied to all main headings for each page */
     text-align: left;
 }
 
-img 
+p, 
+ul, 
+ol { /* Aligns all lists to the left on all pages */
+    text-align: left;
+}
+
+/* ========== Jambalaya page CSS below ============ */
+
+.jambalaya { /* Aligns body of jambalaya.html to the center */
+    text-align: center;
+}
+
+
+/* ========== Soondaeguk page CSS below ============ */
+
+.soondaeguk { /* Aligns body of soondaeguk.html to the center */
+    text-align: center;
+}
+
+/* ========== Gamjatang page CSS below ============ */
+
+.gamjatang {
+    text-align: center;
+}
